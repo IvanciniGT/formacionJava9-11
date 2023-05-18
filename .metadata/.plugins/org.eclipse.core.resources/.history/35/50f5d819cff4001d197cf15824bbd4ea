@@ -1,0 +1,34 @@
+package com.curso.diccionario.ficheros;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.curso.diccionario.Diccionario;
+
+public class DiccionarioDesdeFichero implements Diccionario{
+
+	@Override
+	public String getIdioma() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean existe(String palabra) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Optional<List<String>> getSignificados(String palabra) {
+		// TODO Auto-generated method stub
+		return Optional.empty();
+	}
+
+	@Override
+	public List<String> getAlternativas(String palabra) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

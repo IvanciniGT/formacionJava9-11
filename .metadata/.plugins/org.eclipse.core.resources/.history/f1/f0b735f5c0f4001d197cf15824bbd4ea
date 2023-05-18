@@ -1,0 +1,5 @@
+package com.curso.diccionario.ficheros;
+
+public interface Utilidades {
+
+}

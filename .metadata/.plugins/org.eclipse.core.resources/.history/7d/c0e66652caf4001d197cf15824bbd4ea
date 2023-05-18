@@ -1,0 +1,9 @@
+package com.curso.diccionario.ficheros;
+
+public interface Utilidades {
+
+	static String normalizar(String palabra) {
+		return palabra.toLowerCase();
+	}
+	
+}

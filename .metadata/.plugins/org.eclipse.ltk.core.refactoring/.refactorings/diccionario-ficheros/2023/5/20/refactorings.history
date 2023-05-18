@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.curso.diccionario.ficheros.Utilidades.computeLevenshteinDistance(...)&apos; to &apos;puntuacionLevenshtein&apos;&#x0A;- Original project: &apos;diccionario-ficheros&apos;&#x0A;- Original element: &apos;com.curso.diccionario.ficheros.Utilidades.computeLevenshteinDistance(...)&apos;&#x0A;- Renamed element: &apos;com.curso.diccionario.ficheros.Utilidades.puntuacionLevenshtein(...)&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;computeLevenshteinDistance&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;com.curso.diccionario.ficheros{Utilidades.java[Utilidades~computeLevenshteinDistance~QString;~QString;" name="puntuacionLevenshtein" references="true" stamp="1684339316001" version="1.0"/>
+</session>

@@ -1,0 +1,22 @@
+package com.curso.diccionario.ficheros;
+
+import java.util.Optional;
+
+import com.curso.diccionario.Diccionario;
+import com.curso.diccionario.SuministradorDeDiccionarios;
+
+public class SuministradorDeDiccionariosDesdeFicheros implements SuministradorDeDiccionarios{
+
+	@Override
+	public boolean tienesDiccionario(String idioma) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Optional<Diccionario> getDiccionario(String idioma) {
+		// TODO Auto-generated method stub
+		return Optional.empty();
+	}
+
+}

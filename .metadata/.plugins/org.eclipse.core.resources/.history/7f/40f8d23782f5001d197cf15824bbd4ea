@@ -1,0 +1,5 @@
+module diccionarioFicheros {
+	
+	requires diccionarioApi;
+	
+}
