@@ -1,0 +1,9 @@
+[submodule "maven/diccionario-api"]
+	path = maven/diccionario-api
+	url = https://github.com/IvanciniGT/formacionJava9-11-diccionario-api
+[submodule "maven/diccionario-app"]
+	path = maven/diccionario-app
+	url = https://github.com/IvanciniGT/formacionJava9-11-diccionario-app
+[submodule "maven/diccionario-ficheros"]
+	path = maven/diccionario-ficheros
+	url = https://github.com/IvanciniGT/formacionJava9-11-diccionario-ficheros
